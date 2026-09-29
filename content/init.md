@@ -1,0 +1,2 @@
+# nnnikai.github.io
+init
